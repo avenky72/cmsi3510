@@ -1,6 +1,6 @@
-My OS:
+
 *What device and model am I using?
-** MacBook Pro 2019, 16-inch
+* MacBook Pro 2019, 16-inch
 What kind of processor?
 * 2.6 GHz 6-Core Intel Core i7
 How many cores?
