@@ -23,15 +23,25 @@ How much memory?
 
 How much total storage does my device have?
 499.96GB
+
+
 How much storage is available?
 315.94GB
+
+
 What display devices do I have attached?
 DELL 23.5 inch Display
+
+
 What devices do I have?
 Logitech Keyboard
 Bose Headphones
+
+
 Do you use any adapters for your devices?
 HDMI Adapter
 USB to USB-C Adapter
+
+
 What operating system am I running?
 macOS Ventura v13.4
